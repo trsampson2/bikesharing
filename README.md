@@ -6,6 +6,8 @@ Bike sharing is a new form of getting around town in big cities.  We are looking
 [link to dashboard](https://public.tableau.com/views/bike-sharing_16393264263030/RidingOut?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Data Evaluation
+
+### Duration
 The data shows that most users use the bikes for a short duration of time.  It shows that the most users use the bikes for 5 minutes. Longer durations had a lower number of bike rides. 
 
 ### Gender
